@@ -1,0 +1,31 @@
+    h1 {
+        color: #F08A5D;
+    }
+    body {
+        text-align: center;
+    background-color: #F9ED69;
+    font-family: 'Quicksand', sans-serif;
+    }
+    h5  {
+        font-size:larger;
+        color:#B83B5E;
+        font-style: italic;
+    }
+    ul{
+        display:inline;
+        font-size: larger;
+        list-style-position: inside;        
+        
+    }
+
+    .marka  {
+        color:#6A2C70;
+        font-size:40px;
+        font-weight: bolder;        
+    }
+    ol{
+        display:inline;
+        font-size: larger;
+        list-style-position: inside;        
+        
+    }
